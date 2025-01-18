@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "myfotos.html",
+    "href": "myfotos.html",
+    "title": "My pictures",
+    "section": "",
+    "text": "A Vintage Bar\n\n\n\n\n\nA beautiful street in Valencia, Spain\n\n\n\n\n\nThe sunrise at Malvaros Beach in Valencia\n\n\n\n\n\nA big place in Spain\n\n\n\n\n\nCopenhagen"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sophie Hetche",
+    "section": "",
+    "text": "I’m a research Master’s student in child and youth development and always curious about people and their stories. I’m passionate about having good conversations, learning, card games, and capturing life with my analogue camera. I love connecting with others and exploring new ideas—personally and professionally."
+  },
+  {
     "objectID": "myedu.html",
     "href": "myedu.html",
     "title": "Curriculum Vitae",
@@ -47,19 +61,5 @@
     "title": "Curriculum Vitae",
     "section": "Contact",
     "text": "Contact\nFeel free to reach out via LinkedIn or email for collaboration opportunities."
-  },
-  {
-    "objectID": "myfotos.html",
-    "href": "myfotos.html",
-    "title": "My pictures",
-    "section": "",
-    "text": "A Vintage Bar\n\n\n\n\n\nA beautiful street in Valencia, Spain\n\n\n\n\n\nThe sunrise at Malvaros Beach in Valencia\n\n\n\n\n\nA big place in Spain\n\n\n\n\n\nCopenhagen"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sophie Hetche",
-    "section": "",
-    "text": "I’m a research Master’s student in child and youth development and always curious about people and their stories. I’m passionate about having good conversations, learning, card games, and capturing life with my analogue camera. I love connecting with others and exploring new ideas—personally and professionally."
   }
 ]
