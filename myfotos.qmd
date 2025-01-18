@@ -1,0 +1,40 @@
+---
+title: My pictures
+about:
+  template: jolla
+  links:
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sophie-hetche-728852234/
+    - icon: github
+      text: Github
+      href: https://github.com/Soso-h
+    - icon: Utrecht University
+      text: email
+      href: mailto:sophie.hetche@students.uu.nl
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: right
+  loop: false
+---
+
+![A Vintage Bar](images/bar.jpg){group="my-gallery"}
+
+
+![A beautiful street in Valencia, Spain](images/valencia.jpg){group="my-gallery"}
+
+
+
+![The sunrise at Malvaros Beach in Valencia](images/beach.jpg){group="my-gallery"}
+
+
+
+
+![A big place in Spain](images/brunnen.jpg){group="my-gallery"}
+
+
+
+
+![Copenhagen](images/copenhagen.jpg){group="my-gallery"}
+

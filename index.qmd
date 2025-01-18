@@ -1,0 +1,19 @@
+---
+title: "Sophie Hetche"
+about:
+  template: jolla
+  image: images/sophiehetche.jpg
+  links:
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sophie-hetche-728852234/
+    - icon: github
+      text: Github
+      href: https://github.com/Soso-h
+    - icon: Utrecht University
+      text: email
+      href: mailto:sophie.hetche@students.uu.nl
+---
+
+I’m a research Master’s student in child and youth development and always curious about people and their stories. I’m passionate about having good conversations, learning, card games, and capturing life with my analogue camera. I love connecting with others and exploring new ideas—personally and professionally.
+
