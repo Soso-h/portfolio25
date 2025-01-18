@@ -1,0 +1,13 @@
+/* css styles */
+
+/* customise bold */
+strong, b {
+  font-weight: 900; /* Thickest bold */
+  color:  black ; /* Optional: set a color */
+}
+
+/* customise heading colour */
+h1, h2, h3, h4, h5, h6 {
+  color: #0e4674 ; 
+}
+
